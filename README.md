@@ -1,0 +1,2 @@
+# Psychic-Game
+homework Basic
